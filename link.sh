@@ -1,1 +1,1 @@
-ln -s com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+ln -sf com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
